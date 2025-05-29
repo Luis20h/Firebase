@@ -1,2 +1,2 @@
 # Firebase
-Conexion entre la base de firestone con nuestro sistema farmacia UJAT
+Conexion entre la base de datos "firestone" con nuestro sistema farmacia UJAT
